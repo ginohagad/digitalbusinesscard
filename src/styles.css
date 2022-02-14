@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #23252C;
+  font-family: Inter, sans-serif;
+}
+
+.container {
+  margin: 44px auto;
+  width: 317px;
+}
+
+.header--image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+main {
+  background: #1A1B21;
+  margin-top: 0;
+}
+
+footer {
+  background: #161619;
+  border-radius: 0 0 10px 10px;
+}
